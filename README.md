@@ -3519,6 +3519,13 @@ Host: thankg1.org
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
 
+#### Spectre Stealer
+~~~
+TBD...
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/spectre.png "Spectre Stealer")
+
+
 #### StelyBuilder (stealer)
 ~~~
 POST /api/webhooks/848953655281320046/ZSrVJ-rBOW7B0MEj8lHMqJpevQ7e2tubaBOd-YTUHdw6Pk6qudkXbUqDA9u6xOqJyFGk HTTP/1.1
